@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#ff0066; /* Pink; was 777*/
+  color:#777; /* Pink; was 777*/
   font-weight:300;
 }
 
@@ -171,7 +171,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#ff0066; /*pink; was e5e5e5 */
   height:1px;
   margin:0 0 20px;
 }
