@@ -4,7 +4,6 @@ body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
-  background-color:#cccccc;
   font-weight:300;
 }
 
@@ -66,7 +65,7 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #ffff00; /* yellow; was f8f8f8 */  
+  background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
@@ -172,7 +171,7 @@ small {
 
 hr {
   border:0;
-  background:#ff0066; /*pink; was e5e5e5 */
+  background:#e5e5e5;
   height:1px;
   margin:0 0 20px;
 }
